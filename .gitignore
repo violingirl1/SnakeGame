@@ -1,0 +1,7 @@
+*.class
+
+highscore.txt
+
+.vscode/
+
+.DS_Store
